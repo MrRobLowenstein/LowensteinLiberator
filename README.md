@@ -24,6 +24,8 @@ Changing the device type resets it to factory defaults, starting it with region 
 - Procure firmware version 5.07.0002 (2023-0310-1825-Eyra). It's freely available online.
 - Use the script to modify the firmware package. The script produces two modified zip files. Phase 1 is the first modified package installation for firmware unlock, phase 2 is when you change the device type in the service menu and phase 3 is a package install for returning the device to regular operating mode.
 
+The scripts only use commands available to a regular OS installation and should work without any additional tools.
+
 Running the script:
 On macOS/Linux:
 ```
