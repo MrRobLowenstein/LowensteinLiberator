@@ -29,7 +29,7 @@ The scripts only use commands available to a regular OS installation and should 
 Running the script:
 On macOS/Linux:
 ```
-./make_service_packages.sh <stock .zip> [output_dir]
+./make_service_packages.sh <path to Update_weinmann_respiratory_device.zip> [output_dir]
 ```
 output_dir is optional and defaults to "./service_packages".
 
